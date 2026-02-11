@@ -1,4 +1,4 @@
-# Railway-Cybersecurity-Threat-Detection
+# Railway-Cybersecurity-Threat-Detection ISE291
 
 Data Science Intrusion Detection Project
 Project Overview
@@ -6,7 +6,7 @@ Project Overview
 This project develops a machine learning–based intrusion detection system to detect cybersecurity threats in railway communication networks. As modern train systems rely heavily on digital and networked infrastructure, monitoring and identifying anomalous traffic is critical for operational safety and security.
 
 Project Workflow
-1️- Data Preprocessing
+1- Data Preprocessing
 
 Handling missing values
 
@@ -16,7 +16,7 @@ Encoding categorical variables
 
 Feature selection
 
-2️- Exploratory Data Analysis (EDA)
+2- Exploratory Data Analysis (EDA)
 
 Distribution analysis
 
@@ -24,7 +24,7 @@ Class balance visualization
 
 Statistical summaries of key features
 
-3️- Model Development
+3- Model Development
 
 Train/Test split (75% training, 25% testing)
 
